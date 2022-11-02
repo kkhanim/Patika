@@ -1,7 +1,7 @@
 # Binary Search Tree
 ## [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
-İlk olarak 7 rakamından başlayıp sona doğru ilerliyoruz, her bir sonrakı dizi elemanını kontrol ettikte öncekinden büyükse sağa, küçükse sola yazılır.
+İlk olarak 7 rakamından başlayıp sona doğru ilerliyoruz, her bir sonrakı dizi elemanını kontrol ettikte öncekinden büyükse sağa, küçükse sola yazıyoruz.
 
 ```
 7
